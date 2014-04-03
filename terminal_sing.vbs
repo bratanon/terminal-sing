@@ -1,9 +1,9 @@
-' termial-sing.vbs
-' Written by Emil Stjerneman
+' terminal_sing.vbs
+' Written by Emil Stjerneman (BratAnon)
 ' https://github.com/bratanon/terminal-sing
 '
 ' Start the script from the terminal and give a lyric name as frist argument
-' termial-sing.vbs lyricname
+' terminal_sing.vbs lyricname
 
 Dim strArg, xHttp
 

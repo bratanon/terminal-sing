@@ -10,9 +10,9 @@ No need for any installation, just run this commando *(Requires `say` or `espeak
 
 ### Windows
 
-To use this in Windows, you have to download the *terminal-sing.vbs* to your local drive and open it from the windows terminal
+To use this in Windows, you have to download the `terminal_sing.vbs` to your local drive and open it from the windows terminal
 
-    terminal-sing.vbs [lyric name without .lyric]
+    terminal_sing.vbs [lyric name without .lyric]
 
 ## Lyrics
 
