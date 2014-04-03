@@ -5,10 +5,10 @@
 ' Start the script from the terminal and give a lyric name as frist argument
 ' terminal_sing.vbs lyricname
 
-Dim strArg, xHttp
+Dim xHttp
 
 If Wscript.Arguments.Count < 1 Then
-	Wscript.Echo "Yuo have to start from the terminal."
+	Wscript.Echo "You have to start from the terminal."
 	Wscript.Quit
 End If
 
