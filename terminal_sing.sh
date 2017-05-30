@@ -10,4 +10,4 @@ function sing_lyric() {
   fi
 }
 
-sing_lyric < <(curl -fsSL https://raw.githubusercontent.com/bratanon/terminal-sing/master/lyrics/$0.lyric)
+sing_lyric < <(curl -sSL https://raw.githubusercontent.com/bratanon/terminal-sing/master/lyrics/$0.lyric)
